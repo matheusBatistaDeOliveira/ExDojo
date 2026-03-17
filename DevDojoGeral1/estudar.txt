@@ -1,0 +1,7 @@
+const start = Math.floor(scrollTop / alturaLinha);
+const end = start + 20;
+
+render(dados.slice(start, end));
+
+scroll de virtualização
+PRATICAR DOM
