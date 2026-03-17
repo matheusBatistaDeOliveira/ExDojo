@@ -19,7 +19,5 @@ public class Aula19ArraysMultidimensionais01 {
             for(int i2:numeros3){
                 System.out.println(i2);
             }
-
-
         }
 }
