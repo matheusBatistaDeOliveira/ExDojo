@@ -13,9 +13,5 @@ public class PessoaTest01 {
         System.out.println(estudante.nome);
         System.out.println(estudante.idade);
         System.out.println(estudante.sexo);
-
-        Estudante estudanteX = estudante;
-
-        System.out.println(estudanteX);
     }
 }
