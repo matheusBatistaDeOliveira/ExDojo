@@ -106,6 +106,6 @@ public class ArraysMuichoLoucos {
 
 
 
-//fiz na lógica tabela[indice][eixos/dimensões], está errado, era pra ser tabela[linhas][colunas] //
+//fiz na lógica tabela[indice][eixos/dimensões], está errado, era pra ser tabela[linhas][colunas] // Agora está correto
     }
 }
