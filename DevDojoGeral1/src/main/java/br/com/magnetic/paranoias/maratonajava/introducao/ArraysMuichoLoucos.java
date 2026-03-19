@@ -36,7 +36,7 @@ public class ArraysMuichoLoucos {
 
 
 
-        int []respColunas = new int[3]; //única forma de pôr length automatico no segundo array é com laco de repeticao
+        int []respColunas = new int[3]; //única forma de pôr length automático no segundo array é com laço de repetição
         respColunas [0] = tabela[0][0] + tabela[1][0];
         respColunas [1] = tabela[0][1] + tabela[1][1];
         respColunas [2] = tabela[0][2] + tabela[1][2];
@@ -100,12 +100,12 @@ public class ArraysMuichoLoucos {
 //        }
 
 
-//        arays devem ser lidos assim: tabela[linha][coluna]
-//        pois é assim que são os formatos de suas APIs do banco
-//        toda linha tem seu próprio array, indexado pela coluna
+//        arrays devem ser lidos assim: tabela[linha][coluna],
+//        pois é assim que são os formatos das suas APIs do banco
+//        toda a linha tem o seu próprio array, indexado pela coluna
 
 
 
-//fiz na lógica tabela[indice][eixos/dimensões], está errado, era pra ser tabela[linhas][colunas] // Agora está correto
+//fiz na lógica tabela[indices][eixos/dimensões], está errado, era pra ser tabela[linhas][colunas] // Agora está correto
     }
 }
