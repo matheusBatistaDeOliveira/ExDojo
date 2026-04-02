@@ -13,14 +13,16 @@ public class ArraysMuichoLoucos {
         System.out.println("------------------------------");
 
         //linha 1
-        tabela[0][0] = 5; //primeira linha content
-        tabela[0][1] = 5; //segunda linha content
-        tabela[0][2] = 5; //terceira linha content
+        tabela[0][0] = 5; //coluna 1
+        tabela[0][1] = 5; //coluna 2
+        tabela[0][2] = 5; //coluna 3
 
         //linha 2
-        tabela[1][0] = 10; //primeira linha content
-        tabela[1][1] = 10; //segunda linha content
-        tabela[1][2] = 10; //terceira linha content
+        tabela[1][0] = 10; //coluna 1
+        tabela[1][1] = 10; //coluna 2
+        tabela[1][2] = 10; //coluna 3
+
+        //vetor[linha][coluna] = content da célula
 
         //linha um   exibe: 15
         //linha dois exibe: 30
